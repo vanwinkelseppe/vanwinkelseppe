@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I’m an Azure Cloud Solutions Architect with a focus on data platforms, web applications, and cloud applications. I have solid expertise in developing and architecting backend applications using .NET technologies. My career path has equipped me with a balance of development and architectural skills, allowing me to build scalable and robust cloud-based solutions.
+
+With a passion for designing efficient data solutions and cloud infrastructure, I strive to align technology with business goals, ensuring high-performance and maintainable systems. I enjoy collaborating with teams to create seamless applications and contribute to innovative software projects. My experience also includes working with cross-functional teams, mentoring colleagues, and delivering technical leadership to achieve agile and high-quality results.
+
+
+
 <!--
 **vanwinkelseppe/vanwinkelseppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
